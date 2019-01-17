@@ -25,6 +25,9 @@ This project was made in order to practice Structured Prediction.
 |:---:|:---:|:---:|:---:|
 | Accuracy      | 75.218%      | 74.344% | 80.353% |
 
+See what the structured model learned of the possibilities of bigram
+x axis - previous letter
+y axis - current letter
 ![bigarm_heatmap](https://user-images.githubusercontent.com/33622626/51331407-5bd0ec00-1a82-11e9-94b4-2f52d42ff7a5.png)
 
 
