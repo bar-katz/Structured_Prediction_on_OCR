@@ -27,7 +27,8 @@ This project was made in order to practice Structured Prediction.
 
 See what the structured model learned of the possibilities of bigram<br>
 x axis - previous letter<br>
-y axis - current letter
+y axis - current letter<br>
+
 ![bigarm_heatmap](https://user-images.githubusercontent.com/33622626/51331407-5bd0ec00-1a82-11e9-94b4-2f52d42ff7a5.png)
 
 
