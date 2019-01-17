@@ -10,7 +10,7 @@ This project was made in order to practice Structured Prediction.
 
 ## Usage
 
-1. Download Stanfords [OCR dataset](http://ai.stanford.edu/~btaskar/ocr/)
+1. Download Stanfords [OCR dataset](http://ai.stanford.edu/~btaskar/ocr/) and place the files in `data/`
 
 2. Run
     ```sh
