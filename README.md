@@ -30,7 +30,8 @@ x axis - previous letter<br>
 y axis - current letter<br>
 
 For example look at the pairs (q,u), (l,y), (n,g): all of these get high value since they are likely
-to appear together. On the other hand (u,u), (e,i), (a,a) will get low value.<br>
+to appear together.<br>
+On the other hand (u,u), (e,i), (a,a) will get low value.<br>
 
 ![bigarm_heatmap](https://user-images.githubusercontent.com/33622626/51331407-5bd0ec00-1a82-11e9-94b4-2f52d42ff7a5.png)
 
